@@ -9,7 +9,7 @@ server = "smtp.gmail.com"
 port = 587
 
 login = "guimonteiro@sempreceub.com"  
-password = "Inglescom12"
+password = ""
 
 df = pd.read_csv(r'C:\Users\guipi\Desktop\python\monitoria\oficina_python1.csv')
 resultados = df[['Nome completo', 'E-mail (@sempreceub)']]
